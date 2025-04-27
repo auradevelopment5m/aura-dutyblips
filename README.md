@@ -12,6 +12,7 @@
 
 - [Portfolio](https://auradevelopment5m.github.io/)
 
+- [Preview](https://streamable.com/7nl9ge)
 ## Aura Duty Blips
 
 A comprehensive duty blips system for FiveM servers that supports both QBCore and ESX frameworks.
